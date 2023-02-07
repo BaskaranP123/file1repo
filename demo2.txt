@@ -1,0 +1,1 @@
+lets learn get init, add Git add filename,Git commit,Git push,Git pull,Git log,Git delete commands.

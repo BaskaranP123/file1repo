@@ -1,0 +1,1 @@
+After executing the git commands we are gonna prepare the word file of the entire process.
